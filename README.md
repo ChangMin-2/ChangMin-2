@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=230&section=header&text=Hello%20World&fontSize=60&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=818C8F&height=230&section=header&text=Hello%20World&fontSize=60&fontAlign=70&fontColor=ffffff)
 
 <h1>👋 Hi, I'm ChangMin</h1>
 
