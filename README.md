@@ -2,6 +2,9 @@
 
 <h1>👋 Hi, I'm ChangMin</h1>
 <div>I'm ChangMin Junior Front-end developer </div>
+<br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChangMin-2)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>📚 My tech stack </h2>
   
