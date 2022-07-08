@@ -4,7 +4,7 @@
 <div>I'm ChangMin Junior Front-end developer </div>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChangMin-2&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChangMin-2&layout=compact&theme=dark) <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChangMin-2&show_icons=true&theme=dark)
 
 
