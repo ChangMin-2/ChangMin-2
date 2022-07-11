@@ -1,7 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=818C8F&height=230&section=header&text=Welcome&fontSize=60&fontAlign=75&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Welcome&fontSize=60&fontAlign=75)
 
+<div align = 'center'>
 <h1>👋 Hi, I'm ChangMin</h1>
 <div>I'm ChangMin Junior Front-end developer </div>
+<br>
+
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChangMin-2&count_bg=%23FFD5D5&title_bg=%23FF7575&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)
+
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChangMin-2&layout=compact&theme=dark) <br>
@@ -19,3 +25,10 @@
 ![React](https://img.shields.io/badge/React-222222?style=flat&logo=React)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/GitHub-222222?style=flat&logo=GitHub)
+
+</div>
+
+
+
+
+![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
