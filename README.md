@@ -2,7 +2,7 @@
 
 <div align = 'center'>
 <h1>👋 Hi, I'm ChangMin</h1>
-<div>I'm ChangMin Junior Front-end developer </div>
+<div>Junior Front-end developer </div>
 <br>
 
 
