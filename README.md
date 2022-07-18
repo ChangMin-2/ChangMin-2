@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=230&section=header&fontSize=90&fontAlign=75&text=Welcome)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=230&section=header&fontSize=90&fontAlign=75&text=Hi Welcome)
 
 <div align = 'center'>
 <h1>👋 Hi, I'm ChangMin LEE</h1>
